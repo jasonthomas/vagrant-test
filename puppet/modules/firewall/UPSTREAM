@@ -1,0 +1,11 @@
+Upstream repository information:
+
+  Repo:      (TODO)
+  Upstream:  (TODO)
+  License:   (TODO)
+
+Notes:
+
+  20130129 atoll:
+  - Initial commit r32029 was for version 0.0.4, e34f4905d20a92fed14670781f57d81b3b582470 from GH puppetlabs/puppetlabs-firewall.
+  - Uncertain status vs. GH mozilla-it/puppetlabs-firewall.
